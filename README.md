@@ -1,16 +1,1 @@
-# quick
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Pertanggal ini dibuat yaitu tanggal 20 Februari 2023 , saya masih bekerja di CV KARYA HIDUP SENTOSA , saya bekerja sebagai Operator Produksi , dengan bakat yang saya punya saya kepikiran buat membuat Disgn Ui Aplikasi Quick.com , aplikasi ini nantinya akan menampilkan bebagai informasi yang akan mempermudah custommer dalam membeli produk quick
